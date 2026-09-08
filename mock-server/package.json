@@ -1,0 +1,14 @@
+{
+  "name": "vku-mock-server",
+  "version": "1.0.0",
+  "description": "Mock backend cho VKU Facility Inspector",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.cjs",
+    "dev": "node server.cjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

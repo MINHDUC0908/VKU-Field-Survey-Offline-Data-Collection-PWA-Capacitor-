@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+*.local
+.DS_Store
+mock-server/node_modules/
+mock-server/dist/
